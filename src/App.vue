@@ -11,12 +11,12 @@
           class="container grid"
           style="grid-template-columns: 1.2fr .8fr; align-items: center;" >
           <div>
-            <span class="badge">AlertaBayes · v0</span>
+            <span class="badge">AlertaBayes · v1</span>
             <h1>Información sobre riesgos de desastres en México</h1>
             <p>
               Esta es la primera versión de la plataforma. Aquí podrás conocer el contexto
-              de los principales fenómenos naturales que afectan al país —como inundaciones,
-              deslaves y sismos—, y en futuras versiones consultar estimaciones probabilísticas
+              de los principales fenómenos naturales que afectan al país, como inundaciones,
+              deslaves y sismos, y en futuras versiones consultar estimaciones probabilísticas
               basadas en inteligencia artificial y redes bayesianas.
             </p>
 
